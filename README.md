@@ -38,7 +38,7 @@ To build and run `Telegram Bot API server` you will need:
 
 * OpenSSL
 * zlib
-* C++17 compatible compiler (e.g., Clang 5.0+, GCC 7.0+, MSVC 19.1+ (Visual Studio 2017.7+), Intel C++ Compiler 19+) (build only)
+* C++17 compatible compiler (e.g., Clang 5.0+, GCC 7.0+, MSVC 19.1+ (Visual Studio 2017.7+), ) (build only)
 * gperf (build only)
 * CMake (3.10+, build only)
 
