@@ -21,7 +21,7 @@ Please note that only global Bot API issues that affect all bots are suitable fo
 The simplest way to build and install `Telegram Bot API server` is to use our [Telegram Bot API server build instructions generator](https://tdlib.github.io/telegram-bot-api/build.html).
 If you do that, you'll only need to choose the target operating system to receive the complete build instructions.
 
-In general, you need to install all `Telegram Bot API server` [dependencies](#dependencies) and compile the source code using CMake:
+In general, you need to install all `Telegram Bot API server` [dependencies](#dependencies) and compile the source code using CMake:20
 
 ```sh
 git clone --recursive https://github.com/tdlib/telegram-bot-api.git
